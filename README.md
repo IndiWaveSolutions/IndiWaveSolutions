@@ -1,7 +1,7 @@
 <div align="center">
 
 # IndiWave Solutions
-### Fullstack Digital Engineering • High-Performance Web & Mobile Systems
+### High-Impact Websites & Mobile Apps • Built for Speed, Conversion & Scale
 
 [![Website](https://img.shields.io/badge/Website-indiwavesolutions.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indiwavesolutions.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IndiWaveSolutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/indiwavesolutions)
@@ -19,9 +19,7 @@
 
 ## 🏢 About IndiWave Solutions
 
-**IndiWave Solutions** is an independent software development studio based in New Delhi, India. We help businesses, startups, and founders build clean, high-performance digital products.
-
-We engineer ultra-fast, mobile-first digital products with clean modular code, predictable agile delivery, and zero proprietary vendor lock-in.
+**IndiWaveSolutions** is a software development company based in New Delhi, India. We help businesses, startups, and founders build clean, high-performance websites, custom e-commerce stores, and cross-platform mobile apps (iOS & Android). Every product is engineered mobile-first with ultra-fast page speed, clean modular code, built-in technical SEO, predictable agile delivery, and zero proprietary vendor lock-in.
 
 ---
 
